@@ -125,7 +125,7 @@ body {
 
     width: 0px;
     height: 100%;
-    background: var(--color-pink);
+    background: var(--color-purple);
 
     animation: written-text_box 1s ease;
     animation-delay: .5s;
@@ -262,6 +262,7 @@ body {
     width: 350px;
     height: 350px;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .links a img {
